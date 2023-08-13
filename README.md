@@ -1,4 +1,6 @@
 # crypto-website-account-template
+programmed entirely in html by myself
+
 # Crypto Wallet Investment
 
 Welcome to the Crypto Wallet Investment web application! This is a simple demo application that allows you to visualize and manage your crypto wallet investments. The application provides features such as tracking investment performance, viewing historical data, applying investment strategies, and performing actions like buying, selling, depositing, and withdrawing crypto assets.
